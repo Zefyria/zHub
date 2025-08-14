@@ -34,3 +34,13 @@ git branch -D old_branch
 git push origin --delete old_branch
 git branch -r
 ```
+
+## Merge and delete branch
+
+```
+git checkout main
+git merge old_branch
+git push origin main
+git branch -d old_branch
+git push origin --delete old_branch
+```
