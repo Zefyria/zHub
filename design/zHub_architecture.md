@@ -1,3 +1,4 @@
+```
 zHub (DWH)
 │
 ├── raw				# as ingested
@@ -7,3 +8,4 @@ zHub (DWH)
 ├── core
 │
 └── metadata        # logging
+```
