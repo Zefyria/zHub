@@ -7,5 +7,7 @@ zHub (DWH)
 │
 ├── core
 │
-└── metadata        # logging
+└── metadata
+	├── catalog
+	└──logs
 ```
