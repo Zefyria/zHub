@@ -5,6 +5,8 @@ zHub
 │
 ├── design/
 │
+├── notebooks/
+│
 └── scripts/
     ├── etl/
     └── utils/
