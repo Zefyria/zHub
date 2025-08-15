@@ -1,5 +1,5 @@
 ```
-zHub (DWH)
+zHub
 │
 ├── raw
 │
