@@ -1,7 +1,7 @@
 ```
 zHub (DWH)
 │
-├── raw				# as ingested
+├── raw
 │
 ├── staging
 │
@@ -9,5 +9,5 @@ zHub (DWH)
 │
 └── metadata
 	├── catalog
-	└──logs
+	└── logs
 ```
