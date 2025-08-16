@@ -7,9 +7,11 @@ zHub
 │
 ├── notebooks/
 │
-└── scripts/
-    ├── etl/
-    └── utils/
+├── utils/
+│
+└── zHub/
+	│
+	└── procedures/
 ```
 
 # Branches
