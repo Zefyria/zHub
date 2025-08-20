@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 # Path to your CSV file
-csv_file = r"C:\Users\Zef\Downloads\NAPLAN_Results.csv"
+csv_file = r"C:\Users\Zef\Downloads\zRepo.Sims4\Sims4.owned.csv"
 
 # Check if file exists
 if not os.path.isfile(csv_file):
