@@ -10,14 +10,13 @@ BEGIN
     DROP TABLE IF EXISTS metadata.catalog;
 
     CREATE TABLE metadata.catalog (
-         obj_id         SERIAL PRIMARY KEY
-        ,db_name        VARCHAR(100) NOT NULL
+         db_name        VARCHAR(100) NOT NULL
         ,tb_name        VARCHAR(100) NOT NULL
         ,source_name    VARCHAR(100) NOT NULL
         ,source_url     VARCHAR(255)
+        ,manual_flag    VARCHAR(1)
         ,ingest_time    TIMESTAMP NOT NULL
         ,destroy_time   TIMESTAMP
-        ,err_msg        TEXT
 );
 
     -- update log on success
