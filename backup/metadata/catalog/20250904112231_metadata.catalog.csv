@@ -1,0 +1,4 @@
+obj_id,db_name,tb_name,source_name,source_url,ingest_time,destroy_time,err_msg
+1,raw,naplan_2025_results,NAPLAN,,2025-08-15 15:19:54.867378,,
+2,sims4,addon,Sims 4 Fandom Wiki (manual),https://sims.fandom.com/wiki/The_Sims_Wiki,2025-08-20 16:35:02.928292,,
+4,sims4,addon_integration,Sims 4 Fandom Wiki (manual),https://sims.fandom.com/wiki/The_Sims_Wiki,2025-08-20 16:39:07.995102,,

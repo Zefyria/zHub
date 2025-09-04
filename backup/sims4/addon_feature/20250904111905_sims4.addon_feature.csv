@@ -1,0 +1,545 @@
+feature_id,addon_id,feature_type,feature_name
+1,1,World,Newcrest
+2,1,World,Oasis Springs
+3,1,World,Willow Creek
+4,1,Trait,Active
+5,1,Trait,Angelic
+6,1,Trait,Ambitious
+7,1,Trait,Calm
+8,1,Trait,Cautious
+9,1,Trait,Charmer
+10,1,Trait,Art Lover
+11,1,Trait,Clingy
+12,1,Trait,Bookworm
+13,1,Trait,Bro
+14,1,Trait,Cheerful
+15,1,Trait,Fussy
+16,1,Trait,Childish
+17,1,Trait,Clumsy
+18,1,Trait,Creative
+19,1,Trait,Independent
+20,1,Trait,Inquisitive
+21,1,Trait,Intense
+22,1,Trait,Erratic
+23,1,Trait,Evil
+24,1,Trait,Family-oriented
+25,1,Trait,Foodie
+26,1,Trait,Geek
+27,1,Death,Cardiac Explosion (Rage)
+28,1,Death,Cowplant
+29,1,Death,Drowning
+30,1,Death,Electrocution
+31,1,Death,Mortified
+32,1,Death,Fire
+33,1,Death,Starvation
+34,1,Death,Hysteria
+35,1,Death,Meteorite
+36,1,Death,Old Age
+37,1,Death,Overexertion
+38,1,Death,Vending Machine
+39,1,Collectable,Alien
+40,1,Trait,Genius
+41,1,Aspiration,Angling Ace (Nature)
+42,1,Collectable,Crystal
+43,1,Collectable,Decorative Egg
+44,1,Collectable,Element
+45,1,Lot Challenge,Heist Havoc
+46,1,Lot Challenge,Off-the-Grid
+47,1,Trait,Gloomy
+48,1,Trait,Sensitive
+49,1,Aspiration,Bestselling Author (Creativity)
+50,1,Skill,Charisma
+51,1,Skill,Comedy
+52,1,Trait,Silly
+53,1,Collectable,Fish
+54,1,Collectable,Fossil
+55,1,Skill,Cooking
+56,1,Skill,Creativity
+57,1,Aspiration,Big Happy Family (Family)
+58,1,Trait,Glutton
+59,1,Trait,Good
+60,1,Trait,Sunny
+61,1,Aspiration,Body Builder (Athletic)
+62,1,Aspiration,Chief of Mischief (Deviance)
+63,1,Aspiration,Computer Whiz (Knowledge)
+64,1,Aspiration,Fabulously Wealthy (Fortune)
+65,1,Aspiration,Freelance Botanist (Nature)
+66,1,Aspiration,Mansion Baron (Fortune)
+67,1,Aspiration,Master Chef (Food)
+68,1,Aspiration,Master Mixologist (Food)
+69,1,Aspiration,Musical Genius (Creativity)
+70,1,Aspiration,Nerd Brain (Knowledge)
+71,1,Aspiration,Painter Extaordinaire (Creativity)
+72,1,Aspiration,Public Enemy (Deviance)
+73,1,Aspiration,Renaissance Sim (Knowledge)
+74,1,Aspiration,Serial Romantic (Love)
+75,1,Aspiration,Soulmate (Love)
+76,1,Aspiration,Successful Lineage (Family)
+77,1,Aspiration,The Curator (Nature)
+78,1,Aspiration,Villainous Valentine (Deviance)
+79,1,Aspiration,Joke Star (Popularity)
+80,1,Aspiration,Party Animal (Popularity)
+81,1,Aspiration,Friend of the World (Popularity)
+82,1,Aspiration,Neighborhood Confidante (Popularity)
+83,1,Skill,Fishing
+84,1,Trait,Goofball
+85,1,Skill,Fitness
+86,1,Skill,Gardening
+87,1,Aspiration,Artistic Prodigy
+88,1,Aspiration,Rambunctious Scamp
+89,1,Aspiration,Social Butterfly
+90,1,Aspiration,Whiz Kid
+91,1,Career,Astronaut
+92,1,Career,Athlete
+93,1,Career,Business
+94,1,Career,Criminal
+95,1,Career,Culinary
+96,1,Career,Entertainer
+97,1,Career,Freelancer
+98,1,Career,Painter
+99,1,Career,Secret agent
+100,1,Career,Style influencer
+101,1,Career,Tech guru
+102,1,Career,Writer
+103,1,Skill,Gourmet Cooking
+104,1,Trait,Wiggly
+105,1,Collectable,Frog
+106,1,Trait,Wild
+107,1,Skill,Guitar
+108,1,Skill,Handiness
+109,1,Collectable,Metal
+110,1,Collectable,Microscope Print
+111,1,Collectable,MySims Trophy
+112,1,Collectable,Plant
+113,1,Collectable,Postcard
+114,1,Collectable,Space Print
+115,1,Collectable,Space Rock
+116,1,Party,Dinner Party
+117,1,Party,House Party
+118,1,Party,Birthday Party
+119,1,Party,Wedding Ceremony
+120,1,Party,Black and White Bash
+121,1,Party,Incognito Costume Party
+122,1,Skill,Logic
+123,1,Skill,Mischief
+124,1,Skill,Mixology
+125,1,Skill,Painting
+126,1,Skill,Piano
+127,1,Skill,Programming
+128,1,Skill,Rocket Science
+129,1,Skill,Video gaming
+130,1,Skill,Violin
+131,1,Skill,Writing
+132,1,Skill,Walking
+133,1,Skill,Talking
+134,1,Skill,Potty Training
+135,1,Skill,Mental
+136,1,Skill,Motor
+137,1,Skill,Social
+138,1,Skill,Imagination
+139,1,Skill,Thinking
+140,1,Trait,Hates Children
+141,1,Trait,Hot-Headed
+142,1,Trait,Jealous
+143,1,Trait,Kleptomaniac
+144,1,Trait,Lazy
+145,1,Trait,Loner
+146,1,Trait,Loves Outdoors
+147,1,Trait,Loyal
+148,1,Trait,Materialistic
+149,1,Trait,Mean
+150,1,Trait,Music Lover
+151,1,Trait,Neat
+152,1,Trait,Noncommital
+153,1,Trait,Outgoing
+154,1,Trait,Perfectionist
+155,1,Trait,Practice Makes Perfect
+156,1,Trait,Romantic
+157,1,Trait,Self-Assured
+158,1,Trait,Slob
+159,1,Trait,Snob
+160,1,Trait,Vegetarian
+161,1,WooHoo Location,Backyard Observatory
+162,1,WooHoo Location,Bed
+163,1,WooHoo Location,Hot tub
+164,1,WooHoo Location,Rocket ship
+165,1,Career,Babysitter
+166,1,Career,Barista
+167,1,Career,Fast Food Employee
+168,1,Career,Manual Laborer
+169,1,Career,Retail Employee
+170,2,Collectable,Holiday Cracker Plushy
+171,3,Aspiration,Outdoor Enthusiast (Nature)
+172,3,Skill,Herbalism
+173,3,Collectable,Insect
+174,3,Party,Weenie Roast
+175,3,Trait,Squeamish
+176,3,WooHoo Location,Tent
+177,3,World,Granite Falls
+178,4,Career,Detective
+179,4,Career,Doctor
+180,4,Career,Scientist
+181,4,World,Magnolia Promenade
+182,4,Skill,Baking
+183,4,Business,Retail
+184,4,Occult,Alien
+185,4,Collectable,Geode
+186,4,Skill,Photography
+187,7,Aspiration,Inner Peace (Wellness)
+188,7,Aspiration,Self-Care Specialist (Wellness)
+189,7,Aspiration,Zen Guru (Wellness)
+190,7,Skill,Wellness
+191,7,Trait,High Maintenance
+192,7,WooHoo Location,Sauna
+193,7,Death,Steam
+194,9,Party,Spooky Party
+195,10,Trait,Dance Machine
+196,10,World,Windenburg
+197,10,Feature,Clubs
+198,10,WooHoo Location,Closet
+199,10,WooHoo Location,Bush
+200,10,Skill,Dancing
+201,10,Skill,DJ Mixing
+202,10,Aspiration,Leader of the Pack (Popularity)
+203,10,Party,Dance Party
+204,10,Trait,Insider
+205,13,Business,Restaurant
+206,13,Collectable,Experimental Food Print
+207,14,Collectable,Voidcritter Card
+208,17,Career,Critic
+209,17,Career,Politician
+210,17,Career,Social Media
+211,17,Collectable,City Poster
+212,17,Festival,Flea Market
+213,17,Festival,Geekcon
+214,17,Festival,Humor and Hijinks Festival
+215,17,Festival,Romance Festival
+216,17,Festival,Spice Festival
+217,17,Death,Pufferfish
+218,17,Lot Challenge,Cursed
+219,17,Lot Challenge,Filthy
+220,17,Lot Challenge,Gremlins
+221,17,Lot Challenge,Grody
+222,17,Lot Challenge,Quake Zone
+223,17,Lot Challenge,Spooky
+224,17,World,San Myshuno
+225,17,Aspiration,City Native (Location)
+226,17,Collectable,Snow Globe
+227,17,Skill,Singing
+228,17,Trait,Unflirty
+229,19,World,Forgotten Hollow
+230,19,Aspiration,Master Vampire (Knowledge)
+231,19,Aspiration,Vampire Family (Family)
+232,19,Aspiration,Good Vampire (Popularity)
+233,19,Occult,Vampire
+234,19,Skill,Pipe Organ
+235,19,Skill,Vampire Lore
+236,19,WooHoo Location,Coffin
+237,19,WooHoo Location,As bats
+238,19,Death,Sunlight
+239,20,Skill,Bowling
+240,21,Aspiration,Super Parent (Family)
+241,21,Skill,Parenting
+242,23,Party,Toddler Play Date
+243,24,Trait,Cat Lover
+244,24,Trait,Dog Lover
+245,24,Feature,Gourmet pet food
+246,24,Feature,Simstagram account for pet
+247,24,Feature,Mystery box found by pet
+248,24,WooHoo Location,Brindleton Bay's lighthouse
+249,24,Pet,Cat
+250,24,Pet,Dog
+251,24,Business,Vet Clinic
+252,24,Collectable,Feather
+253,24,Aspiration,Friend of the Animals (Animal)
+254,24,Skill,Pet Training
+255,24,Skill,Veterinarian
+256,24,WooHoo Location,Bush
+257,24,World,Brindleton Bay
+258,26,Skill,Archaeology
+259,26,Lot Challenge,Creepy Crawlies
+260,26,Aspiration,Archaeology Scholar (Knowledge)
+261,26,Aspiration,Jungle Explorer (Nature)
+262,26,Collectable,Ancient Omiscan Artifact
+263,26,Collectable,Omiscan Treasure
+264,26,Skill,Selvadoradian Culture
+265,26,WooHoo Location,Bush
+266,26,World,Selvadorada
+267,26,Death,Poison
+268,27,Death,Rabid Rodent Fever
+269,28,Career,Gardener
+270,28,Activity,Scout
+271,28,Skill,Flower Arranging
+272,28,Skill,Skating
+273,28,WooHoo Location,Pile of leaves
+274,28,Death,Freezing
+275,28,Death,Overheating
+276,28,Death,Lightning
+277,28,Death,Flower Arrangement
+278,29,Career,Actor
+279,29,Skill,Acting
+280,29,Activity,Drama club
+281,29,Aspiration,Master Actor/Actress (Creativity)
+282,29,Aspiration,World-Famous Celebrity (Popularity)
+283,29,Party,Charity Benefit Party
+284,29,Party,Lampoon Party
+285,29,Party,Fan Meet And Greet
+286,29,Skill,Media Production
+287,29,Trait,Self-Absorbed
+288,29,WooHoo Location,Sleeping pod
+289,29,WooHoo Location,Money vault
+290,29,World,Del Sol Valley
+291,29,Death,Money Vault
+292,30,Career,Military
+293,30,Aspiration,StrangerVille Mystery (Location)
+294,30,Trait,Paranoid
+295,30,World,StrangerVille
+296,30,Death,Mother Plant
+297,31,Career,Conservationist
+298,31,Trait,Child of the Islands
+299,31,Trait,Child of the Ocean
+300,31,Lot Challenge,Volcanic Activity
+301,31,Aspiration,Beach Life (Location)
+302,31,Collectable,Seashell
+303,31,Collectable,Buried Treasure
+304,31,Party,Kava Party
+305,31,WooHoo Location,Mua Pel'am's waterfall
+306,31,World,Sulani
+307,31,Career,Diver
+308,31,Career,Fisherman
+309,31,Career,Lifeguard
+310,33,Aspiration,Spellcraft & Sorcery (Knowledge)
+311,33,Aspiration,Purveyor of Potions (Nature)
+312,33,Occult,Spellcaster
+313,33,Collectable,Magical Artifact
+314,33,Skill,Spellcasting
+315,33,World,Glimmerbrook
+316,33,Death,Night Wraith
+317,33,Death,Spellcaster Overload
+318,33,Death,Potion of Immortality
+319,34,Career,Education
+320,34,Career,Engineer
+321,34,Career,Law
+322,34,Aspiration,Academic (Knowledge)
+323,34,Occult,Servo
+324,34,Activity,E-Sports competitor
+325,34,Activity,Soccer team player
+326,34,Party,Keg Party
+327,34,Skill,Research & Debate
+328,34,Skill,Robotics
+329,34,WooHoo Location,Shower
+330,34,World,Britechester
+331,34,Death,Catastrophic Meltdown
+332,34,Death,Overexertion (Research Archive Machine)
+333,35,Death,Murphy Bed
+334,36,Career,Civil designer
+335,36,Trait,Freegan
+336,36,Lot Challenge,Landfill Lot
+337,36,Lot Challenge,Reduce and Recycle
+338,36,Aspiration,Master Maker (Creativity)
+339,36,Aspiration,Eco Innovator (Nature)
+340,36,Skill,Fabrication
+341,36,Skill,Juice Fizzing
+342,36,Trait,Green Fiend
+343,36,Trait,Maker
+344,36,Trait,Recycle Disciple
+345,36,WooHoo Location,Dumpster
+346,36,World,Evergreen Harbor
+347,36,Death,Beetles
+348,36,Death,Flies
+349,37,Aspiration,Lord/Lady of the Knits (Creativity)
+350,37,Skill,Knitting
+351,38,Aspiration,Hope VS Order (Star Wars)
+352,38,Aspiration,Paragon of Hope (Star Wars)
+353,38,Aspiration,Enforcer of Order (Star Wars)
+354,38,Aspiration,Galactic Privateer (Star Wars)
+355,38,Collectable,Lightsaber Part
+356,38,Collectable,Batuu Record
+357,38,WooHoo Location,Tent
+358,38,WooHoo Location,Dwelling in Black Spire Outpost
+359,38,World,Batuu
+360,39,Career,Salaryperson
+361,39,Trait,Adventurous
+362,39,Aspiration,Extreme Sports Enthusiast (Athletic)
+363,39,Aspiration,Mt. Komorebi Sightseer (Location)
+364,39,Collectable,Simmi
+365,39,Festival,Festival of Light
+366,39,Festival,Festival of Snow
+367,39,Festival,Festival of Youth
+368,39,Party,Mountain Climb Excursion
+369,39,Skill,Rock Climbing
+370,39,Skill,Skiing
+371,39,Skill,Snowboarding
+372,39,Trait,Proper
+373,39,WooHoo Location,Tent
+374,39,WooHoo Location,Bush
+375,39,WooHoo Location,Hot spring
+376,39,WooHoo Location,Ice cave
+377,39,World,Mt. Komorebi
+378,39,Death,Falling
+379,40,Skill,Medium
+380,41,Aspiration,Fabulously Filthy (Location)
+381,41,Aspiration,Perfectly Pristine (Location)
+382,45,Career,Interior Decorator
+383,46,Trait,Animal Enthusiast
+384,46,Lot Challenge,Simple Living
+385,46,Lot Challenge,Wild Foxes
+386,46,Skill,Cross-Stitch
+387,46,Aspiration,Country Caretaker (Nature)
+388,46,Collectable,Village Fair Ribbon
+389,46,Festival,Finchwick Fair
+390,46,Pet,Cow
+391,46,Pet,Chicken
+392,46,Pet,Llama
+393,46,Trait,Lactose Intolerant
+394,46,WooHoo Location,Animal shed
+395,46,World,Henford-on-Bagley
+396,46,Death,Killer Rabbit
+397,46,Death,Killer Chicken
+398,53,Collectable,Message in Bottle
+399,53,World,Tartosa
+400,57,Aspiration,Werewolf Initiate (Werewolf)
+401,57,Aspiration,Lone Wolf (Werewolf)
+402,57,Aspiration,Emissary of the Collective (Werewolf)
+403,57,Aspiration,Wildfang Renegade (Werewolf)
+404,57,Aspiration,Cure Seeker (Werewolf)
+405,57,Collectable,Moonwood Relic
+406,57,WooHoo Location,Bush
+407,57,World,Moonwood Mill
+408,58,Activity,Cheer team member
+409,58,Activity,Chess team member
+410,58,Activity,Computer team member
+411,58,Activity,Football team member
+412,58,Skill,Entrepreneur
+413,58,Aspiration,Drama Llama
+414,58,Aspiration,Goal Oriented
+415,58,Aspiration,Live Fast
+416,58,Aspiration,Admired Icon
+417,58,Trait,Overachiever
+418,58,Trait,Party Animal
+419,58,Trait,Socially Awkward
+420,58,WooHoo Location,Boardwalk rides
+421,58,WooHoo Location,Photo booth
+422,58,World,Copperdale
+423,58,Death,Stink Capsule
+424,58,Death,Urban Myth
+425,58,Career,Simfluencer
+426,58,Career,Video Game Streamer
+427,65,Aspiration,Slumber Party Animal
+428,65,Aspiration,Mind and Body
+429,65,Aspiration,Playtime Captain
+430,65,Aspiration,Creative Genius
+431,65,Party,Baby Shower
+432,65,Party,Family Reunion
+433,65,Party,Slumber Party (PJ party)
+434,65,WooHoo Location,Treehouse
+435,65,World,San Sequoia
+436,70,Lot Challenge,Wild Prairie Grass
+437,70,Aspiration,Championship Rider (Athletic)
+438,70,Aspiration,Expert Nectar Maker (Food)
+439,70,Party,Ranch Animal Day
+440,70,Party,Ranch Gathering
+441,70,Pet,Horse
+442,70,Pet,Mini Goat
+443,70,Pet,Mini Sheep
+444,70,Skill,Nectar Making
+445,70,Skill,Riding
+446,70,Trait,Horse Lover
+447,70,Trait,Rancher
+448,70,WooHoo Location,Bush
+449,70,World,Chestnut Ridge
+450,73,Aspiration,Appliance Whiz (Food)
+451,73,Aspiration,Market Magnate (Fortune)
+452,74,Trait,Child of the Village
+453,74,Trait,Cringe
+454,74,Trait,Generous
+455,74,Lot Challenge,Mold
+456,74,Lot Challenge,Maintenance Troubles
+457,74,Aspiration,Five-Star Property Owner (Fortune)
+458,74,Aspiration,Fount of Tomarani Knowledge (Location)
+459,74,Aspiration,Seeker of Secrets (Deviance)
+460,74,Aspiration,Discerning Dweller (Popularity)
+461,74,Business,Residential Rental
+462,74,Collectable,Colored Marble
+463,74,Collectable,Tassel
+464,74,Party,Neighborhood Potluck
+465,74,Party,Pool Party
+466,74,Trait,Nosy
+467,74,Trait,Wise
+468,74,World,Tomarang
+469,74,Death,Mold
+470,74,Career,Handyperson
+471,77,Aspiration,Sticky Fingers (Deviance)
+472,78,Aspiration,Crystal Crafter (Nature)
+473,78,Skill,Gemology
+474,84,Career,Romance Consultant
+475,84,Aspiration,Paragon Partner (Love)
+476,84,Aspiration,Romantic Explorer (Love)
+477,84,Collectable,Axolotl
+478,84,Skill,Romance
+479,84,Trait,Lovebug
+480,84,Trait,Romantically Reserved
+481,84,WooHoo Location,Closet
+482,84,WooHoo Location,Blanket
+483,84,WooHoo Location,Ciudad Enamorada's love hotel
+484,84,World,Ciudad Enamorada
+485,84,Death,Heartbreak
+486,84,Death,Choking
+487,87,Lot Challenge,Scare Seeker
+488,87,WooHoo Location,Coffin
+489,88,Career,Reaper
+490,88,Career,Undertaker
+491,88,Occult,Ghost
+492,88,Trait,Chased by Death
+493,88,Aspiration,Ghost Historian (Knowledge)
+494,88,Collectable,Tarot Card
+495,88,Festival,Afterlife Anonymous
+496,88,Festival,Crow's Crossing Celebration of Life
+497,88,Festival,Moon Revelry
+498,88,Festival,Ravenwood Family Day
+499,88,Festival,Thinned Festiveil
+500,88,Skill,Thanatology
+501,88,Trait,Macabre
+502,88,Trait,Skeptical
+503,88,WooHoo Location,Coffin
+504,88,WooHoo Location,Crypt
+505,88,WooHoo Location,While possessing objects as ghosts
+506,88,World,Ravenwood
+507,88,Death,Murder of Crows
+508,88,Death,Baleful Bog
+509,88,Death,Death in Sleep
+510,91,Trait,Grouch
+511,97,Aspiration,Master Mentor (Knowledge)
+512,97,Aspiration,Esteemed Entrepreneur (Popularity)
+513,97,Business,Small Business
+514,97,Collectable,Trashley Certified Art
+515,97,Collectable,Nordhaven Bike Part
+516,97,Festival,Hobby Meetup - Creative Cowork
+517,97,Festival,Hobby Meetup - Galactic Gambits
+518,97,Festival,Hobby Meetup - Munch & Mingle
+519,97,Festival,Hobby Meetup - Pottery & Pals
+520,97,Festival,Hobby Meetup - Spotlight Stars
+521,97,Festival,Hobby Meetup - Sweat & Socialize
+522,97,Festival,Hobby Meetup - Writers & Readers
+523,97,Skill,Pottery
+524,97,Skill,Tattooing
+525,97,Trait,Idealist
+526,97,Trait,Shady
+527,97,World,Nordhaven
+528,103,Collectable,Magic Bean
+529,104,Career,Naturopath
+530,104,Trait,Disruptive
+531,104,Aspiration,Discordant Fairy (Fairy)
+532,104,Aspiration,Elixir Enthusiast (Knowledge)
+533,104,Aspiration,Fairy Stories (Fairy)
+534,104,Aspiration,Harmonious Fairy (Fairy)
+535,104,Aspiration,Nature Nomad (Nature)
+536,104,Collectable,Innisgreen Ingredient
+537,104,Skill,Apothecary
+538,104,Skill,Natural Living
+539,104,Trait,Mystical
+540,104,Trait,Plant Lover
+541,104,WooHoo Location,Outhouse
+542,104,World,Innisgreen
+543,104,Death,Emotional Starvation
+544,104,Occult,Fairy
