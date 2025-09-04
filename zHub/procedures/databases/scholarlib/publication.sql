@@ -13,7 +13,26 @@ BEGIN
     DROP TABLE IF EXISTS scholarlib.publication;
 
     CREATE TABLE scholarlib.publication (
-         pub_id                         SERIAL PRIMARY KEY
+         pub_id                     SERIAL PRIMARY KEY
+        ,title TEXT NOT NULL
+        ,authors TEXT
+        ,year INT
+        ,journal TEXT
+        ,book_title TEXT
+        ,volume TEXT
+        ,issue TEXT
+        ,pages TEXT
+        ,publisher TEXT
+        ,doi TEXT
+        ,url TEXT
+        ,isbn TEXT
+        ,issn TEXT
+        ,publication_type TEXT      -- 'article', 'book', 'book_chapter', 'thesis', 'dataset', 'report', 'web'
+        ,abstract TEXT
+        ,language TEXT
+        ,file_path TEXT             -- optional: link to PDF or file
+        ,pdf_hash TEXT              -- optional: deduplication
+        ,added_on TIMESTAMP         DEFAULT now()
 );
 
     -- update log on success

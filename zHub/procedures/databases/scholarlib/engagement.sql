@@ -13,8 +13,15 @@ BEGIN
     DROP TABLE IF EXISTS scholarlib.engagement;
 
     CREATE TABLE scholarlib.engagement (
-         eng_id                         SERIAL PRIMARY KEY
-        ,pub_id                         INTEGER
+         eng_id                     SERIAL PRIMARY KEY
+        ,pub_id                     INTEGER
+        ,eng_date                   DATE
+        ,status                     TEXT -- 'skimmed', 'read', 'cited', 'recommended', 'bookmarked', 'downloaded'
+        ,read_on                    DATE
+        ,summarised_on              DATE
+        ,summary                    TEXT
+        ,notes                      TEXT
+        ,tags                       TEXT[]
 );
 
     -- update log on success
