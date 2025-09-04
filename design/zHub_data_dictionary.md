@@ -5,23 +5,27 @@ zHub
 ├── raw
 │	└── naplan_2025_results
 │
-├── staging							# temporary space for staging data
+├── staging											# temporary space for staging data
 │
 ├── core
 │
-├── sims4
-|	├── addon						# list of packs and kits with USA PC release date
-|	├── addon_feature				# features introduced by addon
-|	├── addon_integration			# integration with earlier addons
-|	├── feature_limitation			# feature limitation by Sim life stage/state
-|	└── owned						# flag = I own the sims4 addon
-│
 ├── metadata
 |	├── catalog
-|	├── ingest_csv_headers          # for when an ingested csv's header row does not match db column names
+|	├── ingest_csv_headers          				# match ingested csv headers to db column names
 |	└── logs
 |
+├── scholarlib
+|	├── publication					# fact table	# publication bibliography
+|	└── engagement									# my notes on publications
+|
+├── sims4
+|	├── addon						# fact table	# list of packs and kits with USA PC release date
+|	├── addon_feature				# tact table	# features introduced by addon
+|	├── addon_integration			# fact table	# integration with earlier addons
+|	├── feature_limitation			# fact table	# feature limitation by Sim life stage/state
+|	└── owned										# flag = I own the sims4 addon
+│
 └── archive
-	└── govhack2025_datasets
+	└── govhack2025_datasets						# Press Any Key For Answers (PAKFA)
 ```
 
