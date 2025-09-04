@@ -1,3 +1,4 @@
+import os
 import psycopg2
 import pandas as pd
 from psycopg2 import sql
@@ -8,7 +9,7 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "zHub",
     "user": "postgres",
-    "password": "zef"
+    "password": os.environ.get("PG_PASSWORD")
 }
 
 ### UPDATE THIS SECTION ###
