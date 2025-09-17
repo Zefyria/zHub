@@ -23,7 +23,10 @@ zHub
 |	├── addon_feature				# tact table	# features introduced by addon
 |	├── addon_integration			# fact table	# integration with earlier addons
 |	├── feature_limitation			# fact table	# feature limitation by Sim life stage/state
-|	└── owned										# flag = I own the sims4 addon
+|	├── owned										# flag = I own the sims4 addon
+|	├── challenge									# challenge details
+|	├── challenge_sim								# challenge Sim details (linked to sims4.challenge)
+|	└── challenge_tracker							# challenge features list (linked to sims4.challenge_sim)
 │
 └── archive
 	└── govhack2025_datasets						# Press Any Key For Answers (PAKFA)

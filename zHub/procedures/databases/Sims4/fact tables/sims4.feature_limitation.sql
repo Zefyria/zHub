@@ -1,5 +1,5 @@
 CREATE SCHEMA IF NOT EXISTS metadata;
-CREATE SCHEMA IF NOT EXISTS Sims4;
+CREATE SCHEMA IF NOT EXISTS sims4;
 
 DO $$
 DECLARE
@@ -7,12 +7,12 @@ DECLARE
 BEGIN
     -- start log
     INSERT INTO metadata.logs (job_name, db_name, tb_name, status, start_time)
-    VALUES ('CREATE', 'Sims4', 'feature_limitation', 'RUNNING', NOW())
+    VALUES ('CREATE', 'sims4', 'feature_limitation', 'RUNNING', NOW())
     RETURNING log_id INTO v_log_id;
 
-    DROP TABLE IF EXISTS Sims4.feature_limitation;
+    DROP TABLE IF EXISTS sims4.feature_limitation;
 
-    CREATE TABLE Sims4.feature_limitation (
+    CREATE TABLE sims4.feature_limitation (
          feature_id                     INTEGER
         ,infant_flag                    VARCHAR(1)
         ,toddler_flag                   VARCHAR(1)
